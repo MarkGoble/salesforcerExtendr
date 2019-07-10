@@ -1,0 +1,23 @@
+Package: salesforcerExtendr
+Title: Add-ins for the salesforcer package
+Version: 0.1.0
+Authors@R: 
+    person(given = "Mark",
+           family = "Goble",
+           role = c("aut", "cre"),
+           email = "mark.goble@goble.co.uk")
+Description: A collection of functions to extend the use of the salesforcer package (https://stevenmmortimer.github.io/salesforcer/).
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports:
+    magrittr,
+    dplyr,
+    checkmate,
+    salesforcer,
+    tidyr,
+    qdapTools,
+    rstudioapi
+Depends:
+    R (>= 3.5)
