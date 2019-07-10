@@ -3,7 +3,7 @@
 #' A collection of additional helpers functions to extend the salesforcer package
 #'
 #' @docType package
-#' @name marksLittleHelper
+#' @name salesforcerExtendr
 #' @author Mark Goble \email{mark.goble@@goble.co.uk}
 "_PACKAGE"
 

@@ -1,5 +1,5 @@
 Package: salesforcerExtendr
-Title: Add-ins for the salesforcer package
+Title: Add-Ins For The Salesforcer Package
 Version: 0.1.0
 Authors@R: 
     person(given = "Mark",
